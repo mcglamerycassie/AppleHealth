@@ -38,3 +38,6 @@ Apple Health XML → CSV Conversion → Cloud Storage → BigQuery → SQL Clean
 - Small sample size
 - Apple Health data source inconsistencies (watch v. iPhone)
 - Gym activity inferred from activity metrics
+
+## Privacy & Ethical Considerations
+All participants explicitly consented to the use of their Apple Health data for this educational case study.
