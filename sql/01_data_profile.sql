@@ -1,4 +1,4 @@
-/* Purpose: to identify record type, data ranges, and source validation */
+/* Purpose: Identify record type, data ranges, and source validation */
 SELECT type, COUNT(*) AS record_count
 FROM `project.dataset.table`
 GROUP BY type
