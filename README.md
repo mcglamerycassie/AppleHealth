@@ -36,6 +36,7 @@ Apple Health XML → CSV Conversion → Cloud Storage → BigQuery → SQL Clean
 
 ## Limitations
 - Small sample size
+- 90 day date range (01/23/2026 - 04/23/2026)
 - Apple Health data source inconsistencies (watch v. iPhone)
 - Gym activity inferred from activity metrics
 
