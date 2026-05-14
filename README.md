@@ -28,7 +28,7 @@ Apple Health XML → CSV Conversion → Cloud Storage → BigQuery → SQL Clean
 - Building Tableau dashboards to communicate ROI insights
 
 ## Key Findings
-- Partcipant C  achieved the highest gym membership ROI at 268.3 active calories burned per dollar spent
+- Partcipant C  achieved the highest gym membership ROI at 268.0 active calories burned per dollar spent
 - Partcipant A ranked second at 148.8 active calories per dollar spent
 - Partcipant B ranked third at 134.3 active calories per dollar spent
 - Membership cost influenced ROI, demonstrating that higher activity alone did not guarantee the best financial return
