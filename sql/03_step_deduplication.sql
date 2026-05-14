@@ -1,4 +1,4 @@
-/* Purpose: Identify duplicate step count  by comparing step totals from Apple Health data sources (watch v iPhone) */
+/* Purpose: Identify duplicate step count by comparing step totals from Apple Health data sources (watch v iPhone) */
 
 SELECT
   sourceName,
