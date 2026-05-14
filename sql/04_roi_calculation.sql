@@ -3,7 +3,7 @@
 SELECT
   ROUND(AVG(daily_active_energy)) AS average_daily_active_calories,
   ROUND(AVG(daily_active_energy) * 30) AS estimated_monthly_active_calories,
-  ROUND((AVG(daily_active_energy) * 30) / gym_fee) AS calories_per_dollar
+  ROUND((AVG(daily_active_energy) * 30) / gym_fee, 1) AS calories_per_dollar
 
 FROM (
   SELECT
