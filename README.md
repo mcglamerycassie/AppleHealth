@@ -10,6 +10,9 @@ Which family member gets the best return on investment from their gym membership
 
 - ## Live Dashboard
 
+- <img width="1455" height="821" alt="image" src="https://github.com/user-attachments/assets/3dc24bc3-adf4-41fa-a310-c63009f7e4de" />
+
+
 View the Interactive Tableau Dashboard: https://public.tableau.com/views/AppleHealthActivityDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Tools Used
