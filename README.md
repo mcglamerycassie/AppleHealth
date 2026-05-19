@@ -1,18 +1,20 @@
 # Apple Health Gym ROI Case Study
 
 ## Business Question
-Which family member gets the best return on investment from their gym membership? 
+Which participant gets the best return on investment from their gym membership? 
 
-- Partcipant A pays $150/month for their gym membership
-- Partcipant B pays $130/month for their gym membership
-- Partcipant C pays $53/month for their gym memberhship
-- ROI Formula: (Average Daily Active Calories × 30) ÷ Monthly Membership Cost
+- Participant A pays $150/month for their gym membership
+- Participant B pays $130/month for their gym membership
+- Participant C pays $53/month for their gym membership
 
-- ## Dashboard Preview
+### ROI Formula
+(Average Daily Active Calories × 30) ÷ Monthly Membership Cost
 
-- <img width="1455" height="821" alt="image" src="https://github.com/user-attachments/assets/3dc24bc3-adf4-41fa-a310-c63009f7e4de" />
+## Dashboard Preview
 
-- ## Live Dashboard
+ <img width="1455" height="821" alt="image" src="https://github.com/user-attachments/assets/3dc24bc3-adf4-41fa-a310-c63009f7e4de" />
+
+## Live Dashboard
 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/AppleHealthActivityDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## Tools Used
@@ -35,11 +37,10 @@ Apple Health XML → CSV Conversion → Cloud Storage → BigQuery → SQL Clean
 - Building Tableau dashboards to communicate ROI insights
 
 ## Key Findings
-- Partcipant C  achieved the highest gym membership ROI at 268.0 active calories burned per dollar spent
-- Partcipant A ranked second at 148.8 active calories per dollar spent
-- Partcipant B ranked third at 134.3 active calories per dollar spent
+- Participant C  achieved the highest gym membership ROI at 268.0 active calories burned per dollar spent
+- Participant A ranked second at 148.8 active calories per dollar spent
+- Participant B ranked third at 134.3 active calories per dollar spent
 - Membership cost influenced ROI, demonstrating that higher activity alone did not guarantee the best financial return
-
 
 ## Limitations
 - Small participant sample size 
