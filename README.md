@@ -8,6 +8,10 @@ Which family member gets the best return on investment from their gym membership
 - Partcipant C pays $53/month for their gym memberhship
 - ROI Formula: (Average Daily Active Calories × 30) ÷ Monthly Membership Cost
 
+- ## Live Dashboard
+
+[View the Interactive Tableau Dashboard][(PASTE_YOUR_TABLEAU_LINK_HERE)](https://public.tableau.com/views/AppleHealthActivityDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Tools Used
 - Apple Health XML
 - Google Colab (Python)
